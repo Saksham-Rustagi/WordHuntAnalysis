@@ -1,2 +1,2 @@
 # WordHuntAnalysis
-Word Hunt Solver, Board Simulater, and word frequency Analysis
+Word Hunt Solver, Board Simulator, and word frequency Analysis
